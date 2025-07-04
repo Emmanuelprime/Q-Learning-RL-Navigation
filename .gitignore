@@ -1,0 +1,42 @@
+# Python virtual environments
+venv/
+env/
+.auto
+.build
+.mypy_cache
+/auto
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Matplotlib cache
+~/.matplotlib/
+
+# PyQt6 UI compilation artifacts (if any)
+*.ui.py
