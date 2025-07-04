@@ -29,4 +29,3 @@ Make sure you have **Python 3.9+** installed.
 
 ```bash
 git clone https://github.com/Emmanuelprime/Q-Learning-RL-Navigation.git
-cd robot-rl-navigation
