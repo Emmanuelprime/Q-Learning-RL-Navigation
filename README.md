@@ -16,7 +16,7 @@ This project is a visual simulation of a robot learning to navigate a 2D grid en
 
 ## 🖼️ Screenshots
 
-![screenshot](test.png)  
+![screenshot](./test.png)  
 *Include a screenshot of the GUI with the robot navigating obstacles.*
 
 ---
@@ -28,5 +28,5 @@ Make sure you have **Python 3.9+** installed.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/emmanuelprime/robot-rl-navigation.git
+git clone https://github.com/Emmanuelprime/Q-Learning-RL-Navigation.git
 cd robot-rl-navigation
